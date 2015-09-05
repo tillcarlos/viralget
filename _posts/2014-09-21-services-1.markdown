@@ -1,8 +1,11 @@
 ---
 layout: default
-img: ipad.png
+img: prelaunch_pg_2.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: "Care Study: Harry's Razors"
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Harry's shavers launched their product and gathered 100,000 email addresses in the process.
+   [Tim Ferriss Blog](http://fourhourworkweek.com/2014/07/21/harrys-prelaunchr-email/) has a great write-up on how they did it.
+   
+   Software used: [prelaunchr](https://github.com/harrystech/prelaunchr), programmed internally.

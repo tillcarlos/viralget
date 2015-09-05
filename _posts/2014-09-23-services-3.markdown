@@ -1,8 +1,10 @@
 ---
 layout: default
-img: phones.png
+img: dingemann.jpg
 category: Services
 title: Google Web Fonts and<br>Font Awesome Icons
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Manuel Dingemann is a Mac productivity expert from Hamburg, Germany. He gives out his free info product through referrals. Campaign status: still in launch.
+
+Software used: Viralget. Check out [Dingemann's Course (German))](http://start.coliving-hamburg.de/) for a demo.
